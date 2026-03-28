@@ -1,0 +1,10 @@
+{
+  "name": "wa-session-generator",
+  "version": "1.0.0",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "fs-extra": "latest",
+    "qrcode-terminal": "latest"
+  }
+}
